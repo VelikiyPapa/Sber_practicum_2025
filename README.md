@@ -4,8 +4,8 @@
 
 Порядок запуска скриптов такой:
 
-hous_hunter_urls
-house_info
-house_result
+1) hous_hunter_urls
+2) house_info
+3) house_result
 
 Застройщики 2025 представляет собой итоговый отредактированный вариант
